@@ -1,16 +1,5 @@
+<style>
 body {
-  color: black;
-  Background:white;
+  background: pink;
 }
-p {
-  background: black;
-  color: white;
-  font-size: 25px;
-}
-.banner { 
-  font-size: 1.75rem;
-  text-align: center;
-  margin: 2.5rem 1rem;
-  padding: 15px 10px 10px 10px;
-  background-color:black;
-  color: white;
+<style>
